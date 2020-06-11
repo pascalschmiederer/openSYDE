@@ -31,4 +31,3 @@ How to build:
 
 Further information on how to install and configure your Qt Creator:
 ====================================================================
-https://redmine.sensor-technik.de/projects/s0032/wiki/Qt_Getting_Started
